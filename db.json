@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "name": "Analista de TI",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "200",
+          "description": "Serviço um ",
+          "id": "1a951c97-1523-4147-8040-ddbd4e883d93"
+        },
+        {
+          "name": "Teste",
+          "cost": "800",
+          "description": "Faça isso",
+          "id": "9c8fbf91-e087-4596-a00c-eae4cba64709"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Desenvolvimento Mobile",
+      "budget": "60000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Pagina de produtos",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "500",
+          "description": "Serviço um ",
+          "id": "0b9525ea-ad0f-43e5-bf3c-01256fbdbbe8"
+        },
+        {
+          "name": "Scrum",
+          "cost": "500",
+          "description": "Serviço um ",
+          "id": "4ea95247-e496-4db8-b0fd-079552377877"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
