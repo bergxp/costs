@@ -49,7 +49,7 @@ function Project() {
       headers: {
         "Content-Type": "application/json",
       },
-    body: JSON.stringify(Project),
+    body: JSON.stringify(project),
       
     }).then(resp => resp.json())
     .then((data) => {
@@ -58,8 +58,6 @@ function Project() {
       //mensagem
       setMessage("Projeto atualizado!")
       setType("sucess")
-    
-      showProjectForm(false)
     }).catch(err => console.log(err))
   }
 

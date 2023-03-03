@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Analista de TI",
-      "budget": "50000",
+      "name": "Analista",
+      "budget": "15000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -36,11 +36,11 @@
       "id": 2
     },
     {
-      "name": "Pagina de produtos",
-      "budget": "1000",
+      "name": "SUPORTE TI",
+      "budget": "9000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 1000,
       "services": [

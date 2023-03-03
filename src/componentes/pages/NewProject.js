@@ -9,7 +9,7 @@ function NewProject(){
     project.services =[]
     const url = "http://localhost:5000/projects"
     const metodo = {
-      method: 'POST',
+      method: 'PATCH',
       headers: {
         'Content-type': 'application/json'
       },
