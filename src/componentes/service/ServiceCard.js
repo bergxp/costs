@@ -22,4 +22,5 @@ function ServiceCard ({id,name,cost,description,handleRemove}){
     </div>
   )
 }
+
 export default ServiceCard

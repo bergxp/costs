@@ -9,6 +9,8 @@ import Message from "../layout/Message"
 import ServiceForm from "../service/ServiceForm";
 import ServiceCard from "../service/ServiceCard";
 function Project() {
+
+  //npm run backend para iniciar o banco de dados
   const [project, setProject] = useState([]);
   const [services, setServices] = useState([]);
   const [showProjectForm, setShowProjectForm] = useState(false);

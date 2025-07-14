@@ -25,17 +25,6 @@
       "id": 1
     },
     {
-      "name": "Desenvolvimento Mobile",
-      "budget": "60000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "SUPORTE TI",
       "budget": "9000",
       "category": {
