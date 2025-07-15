@@ -1,8 +1,7 @@
 {
   "name": "costs",
   "version": "0.1.0",
-
-  "homepage": "https://costs-ashen.vercel.app/",
+  "homepage": "https://seusite.vercel.app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

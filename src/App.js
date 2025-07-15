@@ -9,6 +9,11 @@ import Footer from './componentes/layout/Footer'
 import Projects from './componentes/pages/Projects.js';
 import Project from './componentes/pages/Project.js';
 
+//verificar se o db esta rodando com o json-server --version, caso contrario não carregará os dados
+//json-server --watch db.json --port 3000
+//npm run backend
+
+
 function App() {
   return (
     <Router>

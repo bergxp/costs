@@ -26,7 +26,7 @@
     },
     {
       "name": "SUPORTE TI",
-      "budget": "9000",
+      "budget": "10000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -47,6 +47,17 @@
         }
       ],
       "id": 3
+    },
+    {
+      "name": "Scrum Function banner",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
